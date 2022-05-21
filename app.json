@@ -1,0 +1,16 @@
+{
+  "name": "Just a Bot",
+  "description": "Telegram Bot",
+  "logo": "https://i.imgur.com/ATSG4w3.png",
+  "keywords": [
+    "telegram",
+    "bot",
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://xcvbnm.ml",
+  "website": "https://xcvbnm.ml",
+  "success_url": "https://xcvbnm.ml",
+  "stack": "container"
+  }
